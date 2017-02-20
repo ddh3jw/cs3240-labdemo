@@ -1,5 +1,8 @@
+def greetings(msg):
+	print(msg)
+
 def main():
-    print()
+    greetings("hello")
 
 if __name__ == "__main__":
     main()
