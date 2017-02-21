@@ -1,2 +1,1 @@
-# cs3240-labdemo
-Good Times, Go Hoos
+cs3240-labdemo it's lit fam
